@@ -1,0 +1,16 @@
+{
+    "name": "Yamblatro.Simulation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b419bd402e8b7b547a2f4429a704b03c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

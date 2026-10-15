@@ -1,0 +1,17 @@
+{
+    "name": "Yamblatro.Research",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b419bd402e8b7b547a2f4429a704b03c",
+        "GUID:3d03dc6c49ecfb94bb7eb18184b9e70c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
